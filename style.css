@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  font-family:Arial;
+  transition:0.4s;
+}
+
+@keyframes moveCloud {
+  0% { left:-120px; }
+  100% { left:110%; }
+}
